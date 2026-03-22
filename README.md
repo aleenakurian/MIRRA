@@ -111,7 +111,7 @@ cd backend
 uvicorn main:app --reload
 ```
 
-Backend runs at `http://127.0.0.1:8000`. On first startup it automatically seeds Aarohi and Naina's profiles from the seed files.
+On first startup it automatically seeds Aarohi and Naina's profiles from the seed files.
 
 ### Frontend
 
@@ -120,8 +120,6 @@ cd frontend
 npm install
 npm run dev
 ```
-
-Frontend runs at `http://localhost:5173`.
 
 ---
 
@@ -213,10 +211,10 @@ When a user clicks Accept / Reject / Modify on a recommendation:
 
 ```env
 # backend/.env.example
-LLM_PROVIDER=openai         # or anthropic, etc.
+LLM_PROVIDER=
 LLM_API_KEY=your_key_here
 LLM_ENDPOINT=https://...
-LLM_MODEL=gpt-4
+LLM_MODEL=
 ```
 
 LLM integration is stubbed — the app runs fully in mock mode without any API keys.
