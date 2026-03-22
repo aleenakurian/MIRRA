@@ -1,0 +1,23 @@
+[
+  {
+    "profile_id": "MIRRA-F-0001",
+    "accepted": 17,
+    "rejected": 6,
+    "modified": 0,
+    "time_saved_minutes": 255
+  },
+  {
+    "profile_id": "MIRRA-F-0002",
+    "accepted": 1,
+    "rejected": 1,
+    "modified": 0,
+    "time_saved_minutes": 15
+  },
+  {
+    "profile_id": "USER-1773926623746",
+    "accepted": 1,
+    "rejected": 0,
+    "modified": 0,
+    "time_saved_minutes": 15
+  }
+]

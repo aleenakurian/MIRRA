@@ -1,0 +1,233 @@
+[
+  {
+    "profile_id": "MIRRA-F-0002",
+    "reco_id": "3c55aa5c-6b4a-43ff-8dc8-97d0da26de73",
+    "action": "accept",
+    "edits": null
+  },
+  {
+    "profile_id": "MIRRA-F-0002",
+    "reco_id": "a8c4be26-c709-41be-a550-49a75ac13aa2",
+    "action": "accept",
+    "edits": null
+  },
+  {
+    "profile_id": "MIRRA-F-0002",
+    "reco_id": "a3cdd522-78d6-4f8b-afcb-c232aa077947",
+    "action": "accept",
+    "edits": null
+  },
+  {
+    "profile_id": "MIRRA-F-0002",
+    "reco_id": "43ae4cca-cd92-46b7-9d5e-7be9394307ac",
+    "action": "accept",
+    "edits": null
+  },
+  {
+    "profile_id": "MIRRA-F-0002",
+    "reco_id": "750234eb-2081-4804-952e-16460a9e5466",
+    "action": "accept",
+    "edits": null
+  },
+  {
+    "profile_id": "MIRRA-F-0002",
+    "reco_id": "1d04fbb2-3762-48f9-84b4-a54a7dffb13e",
+    "action": "reject",
+    "edits": null
+  },
+  {
+    "profile_id": "MIRRA-F-0002",
+    "reco_id": "4177b064-0442-44c4-a0b3-7840e629a10b",
+    "action": "reject",
+    "edits": null
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "8a7b1850-fd9d-482f-b2ec-4af7335b6904",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T14:56:27.899132"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "a72e0818-d8c0-4222-925b-e4f2833c4525",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T14:59:22.339670"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "27ea5345-9a3e-438f-9cd0-a49ee5a0709c",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T14:59:26.071525"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "c25b1221-be9c-4534-a650-615fbbd48eb1",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T14:59:28.415824"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "8a7beb3a-5044-4ba0-9ef7-985fe62b876e",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T15:08:05.134686"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "13c04db0-b96a-482a-b756-3db4599c88e9",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T15:08:06.320413"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "3c1e9504-e8c4-47ad-ad65-840ac021d7c9",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T15:08:07.207944"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "898564cb-440a-407f-ac00-35459352249e",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T15:09:02.221769"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "e89789e7-c7d5-4ad5-83d3-63c2b36c28e0",
+    "action": "reject",
+    "edits": {},
+    "timestamp": "2026-03-19T15:09:04.753504"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "70489cb5-46cf-4bd1-a894-31c305850e49",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T15:09:06.805988"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "7e161fc5-2d23-4a8a-b7ce-07c3a728791f",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T15:11:05.075644"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "e02c04be-997d-46db-8c8e-115d1d13f249",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T15:13:06.419415"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "8766b097-e34c-4bb9-8208-93478d076513",
+    "action": "reject",
+    "edits": {},
+    "timestamp": "2026-03-19T15:13:09.531897"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "4d955686-d6c3-4389-830e-f6718aafa707",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T15:13:13.210173"
+  },
+  {
+    "profile_id": "MIRRA-F-0002",
+    "reco_id": "c1792055-14bf-4edb-b103-a1db137dc669",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T18:05:22.798783"
+  },
+  {
+    "profile_id": "MIRRA-F-0002",
+    "reco_id": "7c50dbcf-da44-4c94-ab2a-19635527edd4",
+    "action": "reject",
+    "edits": {},
+    "timestamp": "2026-03-19T18:05:43.911006"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "7ba5f434-1291-42db-9437-8974514a12d3",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T18:28:45.264491"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "1d9b31ec-fc25-4a81-bf08-9b526d462281",
+    "action": "reject",
+    "edits": {},
+    "timestamp": "2026-03-19T18:28:52.123199"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "02619479-52a6-44de-b840-fa0efb8b6362",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T18:29:00.388699"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "1040196f-e752-4375-9fd1-2e10c7db7a5a",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T18:51:54.706855"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "13d0483f-c9fa-40f0-927f-fcdd5484f566",
+    "action": "reject",
+    "edits": {},
+    "timestamp": "2026-03-19T18:52:02.439244"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "18cf4e1d-b4fd-478e-b64f-6d81283141d6",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T18:52:11.365193"
+  },
+  {
+    "profile_id": "USER-1773926623746",
+    "reco_id": "051c7563-b844-4b48-89b3-0dcb400e7fe8",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-19T18:54:12.819813"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "ad5c0155-182d-449b-bcf9-ca5dd425ef6e",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-22T16:04:33.677312"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "e5dc3eb7-7ae6-426a-8e66-837c4277f3b3",
+    "action": "reject",
+    "edits": {},
+    "timestamp": "2026-03-22T16:04:37.631427"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "de1732e7-1c5c-4419-abdc-ccf2da85f27b",
+    "action": "accept",
+    "edits": {},
+    "timestamp": "2026-03-22T16:06:22.206604"
+  },
+  {
+    "profile_id": "MIRRA-F-0001",
+    "reco_id": "a396b1ed-2bba-46c9-84f1-f255dad0bb53",
+    "action": "reject",
+    "edits": {},
+    "timestamp": "2026-03-22T16:06:29.149441"
+  }
+]

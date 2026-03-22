@@ -1,0 +1,492 @@
+{
+  "profile_id": "MIRRA-F-0001",
+  "profile_version": "v3.8",
+  "created_for": "demo_sample_data",
+  "generated_at": "2026-03-17T20:23:11+05:30",
+  "confidence": {
+    "overall": 0.93,
+    "breakdown": {
+      "declared": 0.96,
+      "observed": 0.92,
+      "inferred": 0.9,
+      "stability_index_90d": 0.88,
+      "data_coverage": 0.91
+    },
+    "confidence_explanation": "High confidence achieved through 9+ months of consistent signals across declared preferences, observed routines from calendar/task completion, and inferred patterns validated by user feedback."
+  },
+  "demographics": {
+    "name_alias": "Aarohi Mehta",
+    "gender": "female",
+    "age_range": "35-40",
+    "city": "Mumbai",
+    "languages": [
+      "English",
+      "Hindi",
+      "Marathi"
+    ],
+    "preferred_pronouns": "she/her",
+    "household": {
+      "relationship_status": "married",
+      "dependents": [
+        {
+          "type": "child",
+          "age": 7,
+          "notes": "primary school"
+        },
+        {
+          "type": "elder_parent",
+          "age": 68,
+          "notes": "lives with family; chronic meds"
+        }
+      ],
+      "living_setup": "nuclear family with elder parent",
+      "support": {
+        "spouse": "execution support; planning support low",
+        "domestic_help": "part-time",
+        "extended_family": "limited"
+      }
+    }
+  },
+  "privacy_preferences": {
+    "data_sharing": {
+      "work_calendar": "allowed",
+      "personal_calendar": "allowed",
+      "health_metrics": "allowed_summary_only",
+      "location": "allowed_approx_only",
+      "family_data": "allowed_minimal",
+      "shopping_orders": "allowed"
+    },
+    "sensitivity_flags": {
+      "no_push_after": "21:30",
+      "do_not_surface": [
+        "weight_numbers",
+        "comparative_body_metrics"
+      ],
+      "safe_topics_only_when_stressed": true
+    },
+    "data_retention": {
+      "raw_events_days": 365,
+      "derived_features_days": 730,
+      "user_can_delete": true
+    }
+  },
+  "tone_contract": {
+    "default_tone": "supportive + direct",
+    "when_busy": "minimal, action-first",
+    "when_stressed": "reassuring, reduce options",
+    "format": {
+      "max_options": 3,
+      "always_provide_default": true,
+      "use_checklists": true
+    },
+    "language_style": {
+      "prefer": "bullets",
+      "avoid": [
+        "lecturing",
+        "guilt"
+      ],
+      "acknowledge_emotions": true
+    }
+  },
+  "work_profile": {
+    "industry": "Technology",
+    "role": "Senior Program Manager",
+    "work_model": "hybrid",
+    "team_context": {
+      "reports": 0,
+      "stakeholders": "multi-team dependencies",
+      "timezones": [
+        "IST",
+        "CET"
+      ],
+      "meeting_heavy": true
+    },
+    "typical_hours": {
+      "mon_thu": {
+        "start": "09:30",
+        "end": "19:30"
+      },
+      "fri": {
+        "start": "09:30",
+        "end": "18:00"
+      },
+      "weekend": "light check-in"
+    },
+    "meeting_density": {
+      "avg_meetings_per_day": 6,
+      "peak_days": [
+        "Tuesday",
+        "Thursday"
+      ],
+      "deep_work_windows": [
+        "07:30-09:00",
+        "21:00-22:00"
+      ],
+      "buffer_need_minutes": 20
+    },
+    "productivity_style": {
+      "planning_style": "weekly plan + daily top-3",
+      "context_switch_tolerance": "low",
+      "peak_focus_duration_min": 45,
+      "preferred_tools": [
+        "Outlook",
+        "Teams",
+        "OneNote",
+        "Jira"
+      ],
+      "notification_policy": "batch updates every 90 minutes",
+      "communication_style": "crisp, bullet-first, action-driven"
+    },
+    "stress_model": {
+      "triggers": [
+        "ambiguous ownership",
+        "last-minute scope change",
+        "dependency follow-ups",
+        "back-to-back meetings without buffers"
+      ],
+      "early_signals": [
+        "snappy tone",
+        "over-checking notifications",
+        "skipping meals",
+        "late-night catch-up"
+      ],
+      "effective_countermeasures": [
+        "pre-commit daily top-3",
+        "protect buffer slots",
+        "template-based stakeholder updates",
+        "reduce decisions after 20:30"
+      ]
+    }
+  },
+  "home_profile": {
+    "roles": {
+      "primary_planner": "self",
+      "secondary_support": "spouse executes delegated tasks",
+      "eldercare_responsibility": "moderate",
+      "child_school_coordination": "high"
+    },
+    "recurring_load": {
+      "meal_planning": {
+        "frequency": "5x/week",
+        "pain_level": 0.7
+      },
+      "groceries": {
+        "frequency": "2x/week",
+        "pain_level": 0.5
+      },
+      "school_admin": {
+        "frequency": "daily",
+        "pain_level": 0.8
+      },
+      "home_maintenance": {
+        "frequency": "weekly tracking",
+        "pain_level": 0.6
+      },
+      "family_calendar": {
+        "frequency": "daily",
+        "pain_level": 0.75
+      }
+    },
+    "delegation": {
+      "friction_points": [
+        "spouse needs explicit instructions",
+        "helpers require follow-up",
+        "school messages scattered"
+      ],
+      "delegation_success_patterns": [
+        "task cards with checklist",
+        "clear done-definition",
+        "single channel for school updates"
+      ]
+    },
+    "household_rules": {
+      "weekday_dinner_time": "20:15",
+      "kid_homework_window": "18:30-19:15",
+      "quiet_time": "20:45-21:30",
+      "laundry_preference": "Saturday morning"
+    },
+    "success_metrics": [
+      "no morning scrambles",
+      "predictable dinners",
+      "homework without conflict",
+      "medications tracked"
+    ]
+  },
+  "self_profile": {
+    "energy_patterns": {
+      "peak": "07:00-10:00",
+      "midday_dip": "14:30-16:00",
+      "evening_second_wind": "21:00-22:30",
+      "sleep_need_hours": 7.0,
+      "sleep_reality_avg": 6.1
+    },
+    "health": {
+      "declared_conditions": [
+        "thyroid monitoring"
+      ],
+      "preventive": {
+        "checkups": "quarterly",
+        "preferred_reminder": "gentle + actionable"
+      },
+      "movement": {
+        "goal": "3x/week strength + 2x walking",
+        "barriers": [
+          "time",
+          "late evenings"
+        ],
+        "best_slots": [
+          "07:15-07:45",
+          "20:45-21:05 (walk)"
+        ],
+        "confidence": 0.86
+      },
+      "hydration": {
+        "target_liters": 2.0,
+        "typical_liters": 1.3,
+        "confidence": 0.84
+      }
+    },
+    "values_identity": {
+      "top_values": [
+        "competence",
+        "care",
+        "stability",
+        "growth"
+      ],
+      "non_negotiables": [
+        "one uninterrupted personal hour weekly",
+        "family dinner at least 4 days"
+      ],
+      "joy_activities": [
+        "music playlists",
+        "short walks",
+        "journaling"
+      ]
+    },
+    "stress_and_recovery": {
+      "early_signals": [
+        "snappy tone",
+        "notification spikes",
+        "skipping meals"
+      ],
+      "recovery_actions_that_work": [
+        "15-minute walk",
+        "single-task cleaning",
+        "quick call with close friend"
+      ],
+      "safe_mode_rules": {
+        "when_stressed": "reduce choices; suggest defaults; avoid heavy reflection prompts"
+      }
+    }
+  },
+  "preference_model": {
+    "food": {
+      "diet_style": "mostly vegetarian",
+      "weekday_time_budget_min": 25,
+      "preferred_breakfasts": [
+        "poha",
+        "upma",
+        "overnight oats"
+      ],
+      "preferred_dinners": [
+        "dal-rice-salad",
+        "khichdi + curd",
+        "veg stir-fry + roti"
+      ],
+      "dislikes": [
+        "very spicy late night",
+        "deep-fried midweek"
+      ],
+      "family_constraints": {
+        "child": "mild flavors",
+        "elder": "low-salt"
+      }
+    },
+    "shopping": {
+      "channel": "online grocery",
+      "reorder_cycles_days": {
+        "milk": 2,
+        "vegetables": 3,
+        "snacks": 10
+      },
+      "budget_sensitivity": "medium",
+      "brand_loyalty": [
+        "staples",
+        "cleaning supplies"
+      ]
+    },
+    "planning": {
+      "default_mode": "structured",
+      "overwhelmed_mode": "minimum viable plan",
+      "decision_fatigue_points": [
+        "weekday dinner",
+        "school requirements",
+        "gift selection"
+      ]
+    }
+  },
+  "signals": {
+    "declared": {
+      "sources": [
+        "onboarding questionnaire",
+        "preference edits",
+        "goal setting"
+      ],
+      "examples": [
+        {
+          "item": "prefers 3 options max",
+          "last_confirmed_days_ago": 12
+        },
+        {
+          "item": "no push after 21:30",
+          "last_confirmed_days_ago": 3
+        }
+      ]
+    },
+    "observed": {
+      "sources": [
+        "calendar patterns",
+        "task completion",
+        "shopping reorders",
+        "check-in taps"
+      ],
+      "patterns_90d": {
+        "high_meeting_days": [
+          "Tue",
+          "Thu"
+        ],
+        "late_dinner_days": [
+          "Tue",
+          "Wed"
+        ],
+        "missed_meal_risk_windows": [
+          "13:30-15:30"
+        ],
+        "frequent_context_switch_hours": [
+          "11:00-16:00"
+        ]
+      }
+    },
+    "inferred": {
+      "hypotheses": [
+        {
+          "hypothesis": "predictability reduces stress more than variety",
+          "confidence": 0.9
+        },
+        {
+          "hypothesis": "buffers prevent evening overflow",
+          "confidence": 0.88
+        }
+      ]
+    }
+  },
+  "living_hypothesis": {
+    "primary_goal_state": "predictability + reduced cognitive overhead",
+    "core_friction": "invisible planning burden across work/home",
+    "key_tradeoffs": [
+      "trades variety for simplicity on weekdays",
+      "trades perfection for calm when energy is low"
+    ],
+    "behavioral_rules_high_confidence": [
+      {
+        "rule_id": "LH-A-01",
+        "rule": "If meeting_density > 7 and sleep < 6h, recommend low-effort meals + no new commitments.",
+        "confidence": 0.95,
+        "evidence": {
+          "observed": [
+            "90d_meeting_density",
+            "sleep_summary"
+          ],
+          "validated_by_user_feedback": true
+        }
+      },
+      {
+        "rule_id": "LH-A-02",
+        "rule": "On Tue/Thu, protect a 30-min buffer before school coordination.",
+        "confidence": 0.91,
+        "evidence": {
+          "observed": [
+            "calendar_conflicts",
+            "pickup_risk_events"
+          ],
+          "validated_by_user_feedback": true
+        }
+      },
+      {
+        "rule_id": "LH-A-03",
+        "rule": "If mood dips + notifications spike, propose walk + postpone complex decisions 24h.",
+        "confidence": 0.89,
+        "evidence": {
+          "observed": [
+            "app_usage_spikes"
+          ],
+          "inferred": [
+            "mood_checkins"
+          ],
+          "validated_by_user_feedback": true
+        }
+      }
+    ],
+    "recommendation_style": {
+      "timing": [
+        "morning planning",
+        "evening wind-down"
+      ],
+      "format": "default + up to 2 alternatives",
+      "explanations": "short, cause-effect"
+    }
+  },
+  "recommendation_examples": [
+    {
+      "scenario": "Tuesday: 8 meetings + child exam tomorrow",
+      "trigger_signals": [
+        "meeting_density_high",
+        "school_event"
+      ],
+      "suggestion": {
+        "default": "Dinner: dal + rice + salad (20 mins).",
+        "plan": [
+          "Add 15-min review slot with child at 19:00",
+          "Move non-urgent calls to Friday",
+          "Set 10-min buffer before pickup coordination"
+        ]
+      },
+      "why_this": "protects evening bandwidth and reduces decision load",
+      "confidence": 0.92
+    },
+    {
+      "scenario": "Elder medicine refill due + groceries missing staples",
+      "trigger_signals": [
+        "refill_due",
+        "reorder_prediction"
+      ],
+      "suggestion": {
+        "default": "Auto-create combined errand plan + pre-fill cart.",
+        "plan": [
+          "Propose delivery slot Wed 18:00-20:00",
+          "Add refill reminder with 1-click reorder"
+        ]
+      },
+      "why_this": "bundles micro-tasks to avoid scattered reminders",
+      "confidence": 0.9
+    }
+  ],
+  "longitudinal_summary": {
+    "months_of_usage": 11,
+    "seasonality": {
+      "quarter_end_risk": "workload spike; needs simplified home plan",
+      "school_exam_weeks": "evening bandwidth decreases"
+    },
+    "what_worked": [
+      "weekly meal template",
+      "auto-filled grocery cart",
+      "calendar buffers",
+      "default decision bundles"
+    ],
+    "what_didnt_work": [
+      "too many choice menus",
+      "late-night planning prompts",
+      "long reflections when tired"
+    ]
+  }
+}

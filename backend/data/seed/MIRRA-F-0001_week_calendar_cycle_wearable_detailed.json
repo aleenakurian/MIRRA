@@ -1,0 +1,3624 @@
+{
+  "work_calendar_week_detailed": {
+    "timezone": "+05:30",
+    "week_start": "2026-03-23",
+    "week_end": "2026-03-29",
+    "events": [
+      {
+        "event_id": "MIRRA-F-0001-CAL-0001",
+        "title": "Wake + hydration + light stretch",
+        "category": "self",
+        "start": "2026-03-23T06:45+05:30",
+        "end": "2026-03-23T07:05+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "Start easy; avoid phone for first 15 min",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 0,
+              "channel": "silent"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0002",
+        "title": "Strength circuit (upper body)",
+        "category": "self",
+        "start": "2026-03-23T07:15+05:30",
+        "end": "2026-03-23T07:45+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Warm-up 5m",
+          "Circuit 20m",
+          "Stretch 5m"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "RPE 6/10",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "self",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0003",
+        "title": "Breakfast + kid prep",
+        "category": "home",
+        "start": "2026-03-23T08:15+05:30",
+        "end": "2026-03-23T08:35+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Pack snack",
+          "Check school diary"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "home",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0004",
+        "title": "Commute / setup (hybrid day)",
+        "category": "work",
+        "start": "2026-03-23T09:10+05:30",
+        "end": "2026-03-23T09:30+05:30",
+        "location": "office",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "admin",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0005",
+        "title": "Weekly priorities + risk scan",
+        "category": "work",
+        "start": "2026-03-23T09:45+05:30",
+        "end": "2026-03-23T10:15+05:30",
+        "location": "meeting room",
+        "organizer": "self",
+        "participants": [
+          "self"
+        ],
+        "agenda": [
+          "Top 3 outcomes",
+          "Risk/RAID quick scan",
+          "Stakeholder comms plan"
+        ],
+        "prep_checklist": [
+          "Open Jira board",
+          "Pull last week metrics"
+        ],
+        "followups_expected": [
+          "Send top-3 summary to stakeholders"
+        ],
+        "notes": null,
+        "meta": {
+          "priority": "high",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "deep-work",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0006",
+        "title": "Program sync (IST)",
+        "category": "work",
+        "start": "2026-03-23T10:30+05:30",
+        "end": "2026-03-23T11:00+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Core team"
+        ],
+        "agenda": [
+          "Status",
+          "Blockers",
+          "Next 48h"
+        ],
+        "prep_checklist": [
+          "Review action list"
+        ],
+        "followups_expected": [
+          "Assign owners for blockers"
+        ],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0007",
+        "title": "Inbox batch #1",
+        "category": "work",
+        "start": "2026-03-23T11:10+05:30",
+        "end": "2026-03-23T11:40+05:30",
+        "location": "desk",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Scan urgent",
+          "Defer/Delegate"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "Batch notifications; no replies >2 min",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "admin",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0008",
+        "title": "Partner/vendor call",
+        "category": "work",
+        "start": "2026-03-23T11:45+05:30",
+        "end": "2026-03-23T12:30+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Partner lead"
+        ],
+        "agenda": [
+          "Delivery dates",
+          "Risks",
+          "Escalations"
+        ],
+        "prep_checklist": [
+          "Contract milestones"
+        ],
+        "followups_expected": [
+          "Confirm revised dates by email"
+        ],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0009",
+        "title": "Deep work: dependency map update",
+        "category": "work",
+        "start": "2026-03-23T12:40+05:30",
+        "end": "2026-03-23T13:20+05:30",
+        "location": "desk",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Update RACI",
+          "Update Jira dependencies"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "No meetings",
+        "meta": {
+          "priority": "high",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "deep-work",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0010",
+        "title": "Lunch (protected)",
+        "category": "self",
+        "start": "2026-03-23T13:20+05:30",
+        "end": "2026-03-23T13:40+05:30",
+        "location": "cafeteria",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "No screens; hydrate",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0011",
+        "title": "Stakeholder update draft",
+        "category": "work",
+        "start": "2026-03-23T14:05+05:30",
+        "end": "2026-03-23T14:35+05:30",
+        "location": "desk",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Wins",
+          "Risks",
+          "Ask"
+        ],
+        "prep_checklist": [
+          "Use template"
+        ],
+        "followups_expected": [
+          "Send by 16:00"
+        ],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "deep-work",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0012",
+        "title": "Break: tea + 5-min walk",
+        "category": "self",
+        "start": "2026-03-23T15:00+05:30",
+        "end": "2026-03-23T15:20+05:30",
+        "location": "office campus",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0013",
+        "title": "1:1 with team lead",
+        "category": "work",
+        "start": "2026-03-23T15:30+05:30",
+        "end": "2026-03-23T16:00+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Team lead"
+        ],
+        "agenda": [
+          "Blockers",
+          "Support needed"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [
+          "Remove 1 blocker today"
+        ],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0014",
+        "title": "Inbox batch #2 + action notes",
+        "category": "work",
+        "start": "2026-03-23T16:10+05:30",
+        "end": "2026-03-23T16:40+05:30",
+        "location": "desk",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Send decisions",
+          "Log actions"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "admin",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0015",
+        "title": "Commute back / transition buffer",
+        "category": "self",
+        "start": "2026-03-23T17:10+05:30",
+        "end": "2026-03-23T17:40+05:30",
+        "location": "commute",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "No calls; decompress",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0016",
+        "title": "Child homework support",
+        "category": "home",
+        "start": "2026-03-23T18:30+05:30",
+        "end": "2026-03-23T19:15+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Math 20m",
+          "Reading 15m",
+          "Pack bag"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "Keep calm tone; short breaks",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "home",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0017",
+        "title": "Elder meds check + refill scan",
+        "category": "home",
+        "start": "2026-03-23T19:15+05:30",
+        "end": "2026-03-23T19:40+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Confirm doses",
+          "Check refill dates"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "home",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0018",
+        "title": "Dinner",
+        "category": "home",
+        "start": "2026-03-23T20:15+05:30",
+        "end": "2026-03-23T20:45+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "Dal-rice-salad",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "home",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0019",
+        "title": "Walk (decompress)",
+        "category": "self",
+        "start": "2026-03-23T20:50+05:30",
+        "end": "2026-03-23T21:05+05:30",
+        "location": "near home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "15 min; music",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0020",
+        "title": "Wind-down: tomorrow top-3 (light)",
+        "category": "self",
+        "start": "2026-03-23T21:10+05:30",
+        "end": "2026-03-23T21:30+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "Stop prompts after 21:30",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0021",
+        "title": "Wake + hydration",
+        "category": "self",
+        "start": "2026-03-24T06:45+05:30",
+        "end": "2026-03-24T07:05+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0022",
+        "title": "Daily plan + buffer mapping",
+        "category": "work",
+        "start": "2026-03-24T09:20+05:30",
+        "end": "2026-03-24T09:35+05:30",
+        "location": "home office",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Top-3",
+          "Insert 2 buffers",
+          "Protect lunch"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "high",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "admin",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0023",
+        "title": "Leadership review",
+        "category": "work",
+        "start": "2026-03-24T10:00+05:30",
+        "end": "2026-03-24T10:45+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Director",
+          "Peers"
+        ],
+        "agenda": [
+          "Status",
+          "Decisions",
+          "Escalations"
+        ],
+        "prep_checklist": [
+          "Decision memo draft"
+        ],
+        "followups_expected": [
+          "Send decision log within 60m"
+        ],
+        "notes": null,
+        "meta": {
+          "priority": "high",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "high",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0024",
+        "title": "Micro-break",
+        "category": "self",
+        "start": "2026-03-24T10:50+05:30",
+        "end": "2026-03-24T11:00+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "Breathing 2 min + water",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0025",
+        "title": "Cross-team dependency sync",
+        "category": "work",
+        "start": "2026-03-24T11:00+05:30",
+        "end": "2026-03-24T11:30+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Team A",
+          "Team B"
+        ],
+        "agenda": [
+          "Owners",
+          "Dates",
+          "Risks"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [
+          "Update dependency tracker"
+        ],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "high",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0026",
+        "title": "Finance/procurement alignment",
+        "category": "work",
+        "start": "2026-03-24T11:40+05:30",
+        "end": "2026-03-24T12:10+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Finance"
+        ],
+        "agenda": [
+          "Budget check",
+          "PO timelines"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0027",
+        "title": "Lunch (protected)",
+        "category": "self",
+        "start": "2026-03-24T12:30+05:30",
+        "end": "2026-03-24T13:00+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "Quick meal + water",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0028",
+        "title": "Customer touchpoint",
+        "category": "work",
+        "start": "2026-03-24T13:15+05:30",
+        "end": "2026-03-24T14:00+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Customer"
+        ],
+        "agenda": [
+          "Progress",
+          "Risks",
+          "Next milestone"
+        ],
+        "prep_checklist": [
+          "Current status deck"
+        ],
+        "followups_expected": [
+          "Send updated timeline"
+        ],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "high",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0029",
+        "title": "Deep work: RAID update",
+        "category": "work",
+        "start": "2026-03-24T14:05+05:30",
+        "end": "2026-03-24T14:35+05:30",
+        "location": "home office",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Update risks",
+          "Draft mitigations"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "deep-work",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0030",
+        "title": "Buffer (no meeting)",
+        "category": "work",
+        "start": "2026-03-24T14:40+05:30",
+        "end": "2026-03-24T15:00+05:30",
+        "location": "home office",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "Protect transition; avoid back-to-back",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0031",
+        "title": "Steering committee",
+        "category": "work",
+        "start": "2026-03-24T15:15+05:30",
+        "end": "2026-03-24T16:00+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Sponsors"
+        ],
+        "agenda": [
+          "Decisions",
+          "Milestones"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [
+          "Action items to owners"
+        ],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "high",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0032",
+        "title": "Action assignment sprint",
+        "category": "work",
+        "start": "2026-03-24T16:10+05:30",
+        "end": "2026-03-24T16:50+05:30",
+        "location": "home office",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Send notes",
+          "Update Jira",
+          "Ping owners"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "admin",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0033",
+        "title": "School coordination buffer",
+        "category": "home",
+        "start": "2026-03-24T17:05+05:30",
+        "end": "2026-03-24T17:40+05:30",
+        "location": "phone",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Pickup",
+          "Exam needs",
+          "Uniform"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "One channel only",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "home",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0034",
+        "title": "Child exam revision",
+        "category": "home",
+        "start": "2026-03-24T18:30+05:30",
+        "end": "2026-03-24T19:15+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "15m focused",
+          "5m break",
+          "10m recap"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "home",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0035",
+        "title": "Dinner (default simple)",
+        "category": "home",
+        "start": "2026-03-24T20:15+05:30",
+        "end": "2026-03-24T20:40+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "Khichdi + curd",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "home",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0036",
+        "title": "Wind-down: music + tidy",
+        "category": "self",
+        "start": "2026-03-24T21:00+05:30",
+        "end": "2026-03-24T21:20+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0037",
+        "title": "Deep work (before meetings): decision memo",
+        "category": "work",
+        "start": "2026-03-25T07:30+05:30",
+        "end": "2026-03-25T08:30+05:30",
+        "location": "home office",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Draft memo",
+          "Add options + recommendation"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "high",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "deep-work",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0038",
+        "title": "Scrum of scrums",
+        "category": "work",
+        "start": "2026-03-25T10:30+05:30",
+        "end": "2026-03-25T11:00+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Leads"
+        ],
+        "agenda": [
+          "Dependencies",
+          "Risks"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0039",
+        "title": "Architecture/solution review",
+        "category": "work",
+        "start": "2026-03-25T11:10+05:30",
+        "end": "2026-03-25T12:00+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Architects"
+        ],
+        "agenda": [
+          "Design review",
+          "Trade-offs"
+        ],
+        "prep_checklist": [
+          "Read doc 10m"
+        ],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "high",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0040",
+        "title": "Lunch",
+        "category": "self",
+        "start": "2026-03-25T12:30+05:30",
+        "end": "2026-03-25T13:00+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0041",
+        "title": "School portal batch",
+        "category": "home",
+        "start": "2026-03-25T14:30+05:30",
+        "end": "2026-03-25T15:00+05:30",
+        "location": "phone",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Messages",
+          "Fees",
+          "Events"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "home",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0042",
+        "title": "CET overlap call",
+        "category": "work",
+        "start": "2026-03-25T16:00+05:30",
+        "end": "2026-03-25T16:30+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "EU team"
+        ],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0043",
+        "title": "Grocery delivery window",
+        "category": "home",
+        "start": "2026-03-25T18:00+05:30",
+        "end": "2026-03-25T18:20+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "home",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0044",
+        "title": "Dinner",
+        "category": "home",
+        "start": "2026-03-25T20:15+05:30",
+        "end": "2026-03-25T20:45+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "home",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0045",
+        "title": "Daily plan + prep notes",
+        "category": "work",
+        "start": "2026-03-26T09:20+05:30",
+        "end": "2026-03-26T09:35+05:30",
+        "location": "home office",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "admin",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0046",
+        "title": "OKR checkpoint",
+        "category": "work",
+        "start": "2026-03-26T10:00+05:30",
+        "end": "2026-03-26T10:45+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Leadership"
+        ],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "high",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0047",
+        "title": "Escalation call",
+        "category": "work",
+        "start": "2026-03-26T10:55+05:30",
+        "end": "2026-03-26T11:25+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Ops",
+          "Dev"
+        ],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "high",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0048",
+        "title": "Mentoring 1:1",
+        "category": "work",
+        "start": "2026-03-26T11:35+05:30",
+        "end": "2026-03-26T12:10+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Mentee"
+        ],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0049",
+        "title": "Lunch (protected)",
+        "category": "self",
+        "start": "2026-03-26T12:30+05:30",
+        "end": "2026-03-26T13:00+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0050",
+        "title": "Client governance",
+        "category": "work",
+        "start": "2026-03-26T13:15+05:30",
+        "end": "2026-03-26T14:00+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Client"
+        ],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "high",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0051",
+        "title": "Deep work: decision memo finalize",
+        "category": "work",
+        "start": "2026-03-26T14:10+05:30",
+        "end": "2026-03-26T14:50+05:30",
+        "location": "home office",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "deep-work",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0052",
+        "title": "CET sync",
+        "category": "work",
+        "start": "2026-03-26T15:15+05:30",
+        "end": "2026-03-26T16:00+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "EU team"
+        ],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0053",
+        "title": "Send actions + update tracker",
+        "category": "work",
+        "start": "2026-03-26T16:10+05:30",
+        "end": "2026-03-26T16:40+05:30",
+        "location": "home office",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "admin",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0054",
+        "title": "Pickup/admin buffer",
+        "category": "home",
+        "start": "2026-03-26T17:05+05:30",
+        "end": "2026-03-26T17:40+05:30",
+        "location": "phone",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "home",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0055",
+        "title": "Dinner (default)",
+        "category": "home",
+        "start": "2026-03-26T20:15+05:30",
+        "end": "2026-03-26T20:40+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "home",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0056",
+        "title": "Weekly wrap + next-week skeleton",
+        "category": "work",
+        "start": "2026-03-27T09:45+05:30",
+        "end": "2026-03-27T10:40+05:30",
+        "location": "home office",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Review outcomes",
+          "Block deep work",
+          "Pre-empt Tue/Thu"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "deep-work",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0057",
+        "title": "Team retro",
+        "category": "work",
+        "start": "2026-03-27T11:00+05:30",
+        "end": "2026-03-27T11:30+05:30",
+        "location": "Teams",
+        "organizer": "self",
+        "participants": [
+          "Team"
+        ],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "meeting",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0058",
+        "title": "Metrics review (budget/capacity)",
+        "category": "work",
+        "start": "2026-03-27T11:40+05:30",
+        "end": "2026-03-27T12:20+05:30",
+        "location": "home office",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "deep-work",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0059",
+        "title": "Lunch",
+        "category": "self",
+        "start": "2026-03-27T13:00+05:30",
+        "end": "2026-03-27T13:30+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0060",
+        "title": "Recovery buffer",
+        "category": "self",
+        "start": "2026-03-27T15:00+05:30",
+        "end": "2026-03-27T15:30+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": "Tea + 10 min breathing",
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0061",
+        "title": "Family admin: weekend plan",
+        "category": "home",
+        "start": "2026-03-27T18:30+05:30",
+        "end": "2026-03-27T19:20+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Groceries",
+          "Laundry",
+          "Kid activity"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "home",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0062",
+        "title": "Laundry + light cleaning",
+        "category": "home",
+        "start": "2026-03-28T09:00+05:30",
+        "end": "2026-03-28T10:15+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "home",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0063",
+        "title": "Personal hour (non-negotiable)",
+        "category": "self",
+        "start": "2026-03-28T10:30+05:30",
+        "end": "2026-03-28T11:30+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Journaling 20m",
+          "Music 20m",
+          "Tea"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": false
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0064",
+        "title": "Family outing",
+        "category": "home",
+        "start": "2026-03-28T18:00+05:30",
+        "end": "2026-03-28T19:00+05:30",
+        "location": "outside",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "home",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0065",
+        "title": "Meal prep + weekly menu",
+        "category": "home",
+        "start": "2026-03-29T10:00+05:30",
+        "end": "2026-03-29T11:15+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "3 weekday defaults",
+          "Chop veggies",
+          "Prep dal base"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "medium",
+            "focus_type": "home",
+            "is_flexible": true
+          }
+        }
+      },
+      {
+        "event_id": "MIRRA-F-0001-CAL-0066",
+        "title": "Plan week (light)",
+        "category": "self",
+        "start": "2026-03-29T17:30+05:30",
+        "end": "2026-03-29T18:05+05:30",
+        "location": "home",
+        "organizer": "self",
+        "participants": [],
+        "agenda": [
+          "Top-3",
+          "Block buffers",
+          "Confirm school items"
+        ],
+        "prep_checklist": [],
+        "followups_expected": [],
+        "notes": null,
+        "meta": {
+          "priority": "normal",
+          "sensitivity": "normal",
+          "reminders": [
+            {
+              "minutes_before": 15,
+              "channel": "push"
+            }
+          ],
+          "links": [],
+          "related_items": [],
+          "tags": {
+            "energy_cost": "low",
+            "focus_type": "self",
+            "is_flexible": true
+          }
+        }
+      }
+    ]
+  },
+  "menstrual_cycle_month_detailed": {
+    "month": "2026-03",
+    "tracking_method": "synthetic: self-report + wearable-assisted trend",
+    "predicted_next_period": {
+      "window_start": "2026-04-03",
+      "window_end": "2026-04-07"
+    },
+    "daily": [
+      {
+        "date": "2026-03-01",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 24,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-02",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 25,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-03",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 26,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-04",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 27,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-05",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 28,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-06",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 1,
+          "phase": "menstruation",
+          "flow": "light",
+          "symptoms": [
+            "cramps_mild",
+            "fatigue",
+            "lower_backache",
+            "sleepy"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 4,
+            "fatigue_0_10": 5,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.46,
+            "mood_0_1": 0.53,
+            "stress_0_1": 0.55
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.68,
+            "notes": "need earlier bedtime"
+          }
+        },
+        "assistant_actions": {
+          "workload": "reduce meeting load; protect buffers",
+          "nutrition": "iron-rich + hydration",
+          "movement": "gentle walk/stretch"
+        }
+      },
+      {
+        "date": "2026-03-07",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 2,
+          "phase": "menstruation",
+          "flow": "medium",
+          "symptoms": [
+            "cramps_mild",
+            "fatigue",
+            "lower_backache",
+            "sleepy"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 4,
+            "fatigue_0_10": 5,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.46,
+            "mood_0_1": 0.53,
+            "stress_0_1": 0.55
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.68,
+            "notes": "need earlier bedtime"
+          }
+        },
+        "assistant_actions": {
+          "workload": "reduce meeting load; protect buffers",
+          "nutrition": "iron-rich + hydration",
+          "movement": "gentle walk/stretch"
+        }
+      },
+      {
+        "date": "2026-03-08",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 3,
+          "phase": "menstruation",
+          "flow": "medium",
+          "symptoms": [
+            "cramps_mild",
+            "fatigue",
+            "lower_backache",
+            "sleepy"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 4,
+            "fatigue_0_10": 5,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.46,
+            "mood_0_1": 0.53,
+            "stress_0_1": 0.55
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.68,
+            "notes": "need earlier bedtime"
+          }
+        },
+        "assistant_actions": {
+          "workload": "reduce meeting load; protect buffers",
+          "nutrition": "iron-rich + hydration",
+          "movement": "gentle walk/stretch"
+        }
+      },
+      {
+        "date": "2026-03-09",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 4,
+          "phase": "menstruation",
+          "flow": "light",
+          "symptoms": [
+            "cramps_mild",
+            "fatigue",
+            "lower_backache",
+            "sleepy"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 4,
+            "fatigue_0_10": 5,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.46,
+            "mood_0_1": 0.53,
+            "stress_0_1": 0.55
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.68,
+            "notes": "need earlier bedtime"
+          }
+        },
+        "assistant_actions": {
+          "workload": "reduce meeting load; protect buffers",
+          "nutrition": "iron-rich + hydration",
+          "movement": "gentle walk/stretch"
+        }
+      },
+      {
+        "date": "2026-03-10",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 5,
+          "phase": "menstruation",
+          "flow": "spotting",
+          "symptoms": [
+            "cramps_mild",
+            "fatigue",
+            "lower_backache",
+            "sleepy"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 4,
+            "fatigue_0_10": 5,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.46,
+            "mood_0_1": 0.53,
+            "stress_0_1": 0.55
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.68,
+            "notes": "need earlier bedtime"
+          }
+        },
+        "assistant_actions": {
+          "workload": "reduce meeting load; protect buffers",
+          "nutrition": "iron-rich + hydration",
+          "movement": "gentle walk/stretch"
+        }
+      },
+      {
+        "date": "2026-03-11",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 6,
+          "phase": "follicular",
+          "flow": null,
+          "symptoms": [
+            "energy_up",
+            "focus_good",
+            "optimism"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 1,
+            "fatigue_0_10": 2,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.7,
+            "mood_0_1": 0.67,
+            "stress_0_1": 0.48
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.74,
+            "notes": "stable"
+          }
+        },
+        "assistant_actions": {
+          "workload": "schedule deep work and key conversations",
+          "nutrition": "balanced protein",
+          "movement": "strength/deep work pairing"
+        }
+      },
+      {
+        "date": "2026-03-12",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 7,
+          "phase": "follicular",
+          "flow": null,
+          "symptoms": [
+            "energy_up",
+            "focus_good",
+            "optimism"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 1,
+            "fatigue_0_10": 2,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.7,
+            "mood_0_1": 0.67,
+            "stress_0_1": 0.48
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.74,
+            "notes": "stable"
+          }
+        },
+        "assistant_actions": {
+          "workload": "schedule deep work and key conversations",
+          "nutrition": "balanced protein",
+          "movement": "strength/deep work pairing"
+        }
+      },
+      {
+        "date": "2026-03-13",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 8,
+          "phase": "follicular",
+          "flow": null,
+          "symptoms": [
+            "energy_up",
+            "focus_good",
+            "optimism"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 1,
+            "fatigue_0_10": 2,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.7,
+            "mood_0_1": 0.67,
+            "stress_0_1": 0.48
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.74,
+            "notes": "stable"
+          }
+        },
+        "assistant_actions": {
+          "workload": "schedule deep work and key conversations",
+          "nutrition": "balanced protein",
+          "movement": "strength/deep work pairing"
+        }
+      },
+      {
+        "date": "2026-03-14",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 9,
+          "phase": "follicular",
+          "flow": null,
+          "symptoms": [
+            "energy_up",
+            "focus_good",
+            "optimism"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 1,
+            "fatigue_0_10": 2,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.7,
+            "mood_0_1": 0.67,
+            "stress_0_1": 0.48
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.74,
+            "notes": "stable"
+          }
+        },
+        "assistant_actions": {
+          "workload": "schedule deep work and key conversations",
+          "nutrition": "balanced protein",
+          "movement": "strength/deep work pairing"
+        }
+      },
+      {
+        "date": "2026-03-15",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 10,
+          "phase": "follicular",
+          "flow": null,
+          "symptoms": [
+            "energy_up",
+            "focus_good",
+            "optimism"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 1,
+            "fatigue_0_10": 2,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.7,
+            "mood_0_1": 0.67,
+            "stress_0_1": 0.48
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.74,
+            "notes": "stable"
+          }
+        },
+        "assistant_actions": {
+          "workload": "schedule deep work and key conversations",
+          "nutrition": "balanced protein",
+          "movement": "strength/deep work pairing"
+        }
+      },
+      {
+        "date": "2026-03-16",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 11,
+          "phase": "follicular",
+          "flow": null,
+          "symptoms": [
+            "energy_up",
+            "focus_good",
+            "optimism"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 1,
+            "fatigue_0_10": 2,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.7,
+            "mood_0_1": 0.67,
+            "stress_0_1": 0.48
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.74,
+            "notes": "stable"
+          }
+        },
+        "assistant_actions": {
+          "workload": "schedule deep work and key conversations",
+          "nutrition": "balanced protein",
+          "movement": "strength/deep work pairing"
+        }
+      },
+      {
+        "date": "2026-03-17",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 12,
+          "phase": "follicular",
+          "flow": null,
+          "symptoms": [
+            "energy_up",
+            "focus_good",
+            "optimism"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 1,
+            "fatigue_0_10": 2,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.7,
+            "mood_0_1": 0.67,
+            "stress_0_1": 0.48
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.74,
+            "notes": "stable"
+          }
+        },
+        "assistant_actions": {
+          "workload": "schedule deep work and key conversations",
+          "nutrition": "balanced protein",
+          "movement": "strength/deep work pairing"
+        }
+      },
+      {
+        "date": "2026-03-18",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 13,
+          "phase": "follicular",
+          "flow": null,
+          "symptoms": [
+            "energy_up",
+            "focus_good",
+            "optimism"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 1,
+            "fatigue_0_10": 2,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.7,
+            "mood_0_1": 0.67,
+            "stress_0_1": 0.48
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.74,
+            "notes": "stable"
+          }
+        },
+        "assistant_actions": {
+          "workload": "schedule deep work and key conversations",
+          "nutrition": "balanced protein",
+          "movement": "strength/deep work pairing"
+        }
+      },
+      {
+        "date": "2026-03-19",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 14,
+          "phase": "ovulation",
+          "flow": null,
+          "symptoms": [
+            "energy_high",
+            "confidence_up",
+            "social"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 1,
+            "fatigue_0_10": 2,
+            "bloating_0_10": 2,
+            "headache_0_10": 2,
+            "energy_0_1": 0.76,
+            "mood_0_1": 0.72,
+            "stress_0_1": 0.48
+          },
+          "cravings": {
+            "sweet": "low",
+            "salty": "low"
+          },
+          "sleep": {
+            "quality_0_1": 0.74,
+            "notes": "stable"
+          }
+        },
+        "assistant_actions": {
+          "workload": "schedule deep work and key conversations",
+          "nutrition": "steady meals",
+          "movement": "social walk"
+        }
+      },
+      {
+        "date": "2026-03-20",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 15,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-21",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 16,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-22",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 17,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-23",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 18,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-24",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 19,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-25",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 20,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-26",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 21,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-27",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 22,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-28",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 23,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-29",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 24,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-30",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 25,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      },
+      {
+        "date": "2026-03-31",
+        "cycle": {
+          "cycle_length_days_assumed": 28,
+          "day_in_cycle": 26,
+          "phase": "luteal",
+          "flow": null,
+          "symptoms": [
+            "bloating_mild",
+            "irritability_risk",
+            "sleep_light",
+            "snacking_risk"
+          ],
+          "scores": {
+            "pain_cramps_0_10": 2,
+            "fatigue_0_10": 3,
+            "bloating_0_10": 4,
+            "headache_0_10": 2,
+            "energy_0_1": 0.58,
+            "mood_0_1": 0.55,
+            "stress_0_1": 0.62
+          },
+          "cravings": {
+            "sweet": "medium",
+            "salty": "medium"
+          },
+          "sleep": {
+            "quality_0_1": 0.62,
+            "notes": "lighter sleep"
+          }
+        },
+        "assistant_actions": {
+          "workload": "avoid heavy decisions late evening; simplify plan",
+          "nutrition": "plan healthy snacks; reduce triggers",
+          "movement": "yoga + wind-down"
+        }
+      }
+    ]
+  },
+  "wearable_weekly_daily": {
+    "week_start": "2026-03-23",
+    "week_end": "2026-03-29",
+    "daily": [
+      {
+        "date": "2026-03-23",
+        "timezone": "+05:30",
+        "wearable": {
+          "device": "synthetic_fitness_band",
+          "sleep": {
+            "total_hours": 6.24,
+            "deep_hours": 1.39,
+            "rem_hours": 1.28,
+            "sleep_score_0_100": 56,
+            "bedtime": "2026-03-23T23:05+05:30",
+            "wake_time": "2026-03-24T06:20+05:30"
+          },
+          "activity": {
+            "steps": 6102,
+            "active_minutes": 26,
+            "workouts": [],
+            "calories_burned": 1996
+          },
+          "cardio": {
+            "resting_heart_rate_bpm": 73,
+            "hrv_ms": 35
+          },
+          "stress": {
+            "stress_index_0_1": 0.56,
+            "high_stress_minutes": 74
+          },
+          "recovery": {
+            "readiness_score_0_100": 46,
+            "skin_temp_delta_c": 0.26
+          }
+        }
+      },
+      {
+        "date": "2026-03-24",
+        "timezone": "+05:30",
+        "wearable": {
+          "device": "synthetic_fitness_band",
+          "sleep": {
+            "total_hours": 5.71,
+            "deep_hours": 1.29,
+            "rem_hours": 1.26,
+            "sleep_score_0_100": 51,
+            "bedtime": "2026-03-24T23:15+05:30",
+            "wake_time": "2026-03-25T07:15+05:30"
+          },
+          "activity": {
+            "steps": 6108,
+            "active_minutes": 54,
+            "workouts": [],
+            "calories_burned": 1864
+          },
+          "cardio": {
+            "resting_heart_rate_bpm": 74,
+            "hrv_ms": 39
+          },
+          "stress": {
+            "stress_index_0_1": 0.68,
+            "high_stress_minutes": 85
+          },
+          "recovery": {
+            "readiness_score_0_100": 45,
+            "skin_temp_delta_c": 0.08
+          }
+        }
+      },
+      {
+        "date": "2026-03-25",
+        "timezone": "+05:30",
+        "wearable": {
+          "device": "synthetic_fitness_band",
+          "sleep": {
+            "total_hours": 5.76,
+            "deep_hours": 1.17,
+            "rem_hours": 0.97,
+            "sleep_score_0_100": 58,
+            "bedtime": "2026-03-25T23:05+05:30",
+            "wake_time": "2026-03-26T07:15+05:30"
+          },
+          "activity": {
+            "steps": 7378,
+            "active_minutes": 42,
+            "workouts": [],
+            "calories_burned": 2083
+          },
+          "cardio": {
+            "resting_heart_rate_bpm": 70,
+            "hrv_ms": 33
+          },
+          "stress": {
+            "stress_index_0_1": 0.57,
+            "high_stress_minutes": 71
+          },
+          "recovery": {
+            "readiness_score_0_100": 45,
+            "skin_temp_delta_c": 0.12
+          }
+        }
+      },
+      {
+        "date": "2026-03-26",
+        "timezone": "+05:30",
+        "wearable": {
+          "device": "synthetic_fitness_band",
+          "sleep": {
+            "total_hours": 5.49,
+            "deep_hours": 1.32,
+            "rem_hours": 1.29,
+            "sleep_score_0_100": 51,
+            "bedtime": "2026-03-26T23:05+05:30",
+            "wake_time": "2026-03-27T07:15+05:30"
+          },
+          "activity": {
+            "steps": 8574,
+            "active_minutes": 24,
+            "workouts": [],
+            "calories_burned": 1673
+          },
+          "cardio": {
+            "resting_heart_rate_bpm": 76,
+            "hrv_ms": 37
+          },
+          "stress": {
+            "stress_index_0_1": 0.65,
+            "high_stress_minutes": 82
+          },
+          "recovery": {
+            "readiness_score_0_100": 45,
+            "skin_temp_delta_c": 0.23
+          }
+        }
+      },
+      {
+        "date": "2026-03-27",
+        "timezone": "+05:30",
+        "wearable": {
+          "device": "synthetic_fitness_band",
+          "sleep": {
+            "total_hours": 6.24,
+            "deep_hours": 1.43,
+            "rem_hours": 1.29,
+            "sleep_score_0_100": 58,
+            "bedtime": "2026-03-27T23:15+05:30",
+            "wake_time": "2026-03-28T06:40+05:30"
+          },
+          "activity": {
+            "steps": 7494,
+            "active_minutes": 37,
+            "workouts": [],
+            "calories_burned": 2009
+          },
+          "cardio": {
+            "resting_heart_rate_bpm": 71,
+            "hrv_ms": 37
+          },
+          "stress": {
+            "stress_index_0_1": 0.57,
+            "high_stress_minutes": 83
+          },
+          "recovery": {
+            "readiness_score_0_100": 51,
+            "skin_temp_delta_c": 0.33
+          }
+        }
+      },
+      {
+        "date": "2026-03-28",
+        "timezone": "+05:30",
+        "wearable": {
+          "device": "synthetic_fitness_band",
+          "sleep": {
+            "total_hours": 5.87,
+            "deep_hours": 1.41,
+            "rem_hours": 1.13,
+            "sleep_score_0_100": 53,
+            "bedtime": "2026-03-28T23:15+05:30",
+            "wake_time": "2026-03-29T07:00+05:30"
+          },
+          "activity": {
+            "steps": 8621,
+            "active_minutes": 23,
+            "workouts": [],
+            "calories_burned": 1767
+          },
+          "cardio": {
+            "resting_heart_rate_bpm": 72,
+            "hrv_ms": 42
+          },
+          "stress": {
+            "stress_index_0_1": 0.57,
+            "high_stress_minutes": 75
+          },
+          "recovery": {
+            "readiness_score_0_100": 57,
+            "skin_temp_delta_c": 0.29
+          }
+        }
+      },
+      {
+        "date": "2026-03-29",
+        "timezone": "+05:30",
+        "wearable": {
+          "device": "synthetic_fitness_band",
+          "sleep": {
+            "total_hours": 6.1,
+            "deep_hours": 1.25,
+            "rem_hours": 1.25,
+            "sleep_score_0_100": 63,
+            "bedtime": "2026-03-29T23:35+05:30",
+            "wake_time": "2026-03-30T07:00+05:30"
+          },
+          "activity": {
+            "steps": 8633,
+            "active_minutes": 35,
+            "workouts": [],
+            "calories_burned": 2031
+          },
+          "cardio": {
+            "resting_heart_rate_bpm": 76,
+            "hrv_ms": 34
+          },
+          "stress": {
+            "stress_index_0_1": 0.57,
+            "high_stress_minutes": 75
+          },
+          "recovery": {
+            "readiness_score_0_100": 43,
+            "skin_temp_delta_c": 0.2
+          }
+        }
+      }
+    ]
+  }
+}

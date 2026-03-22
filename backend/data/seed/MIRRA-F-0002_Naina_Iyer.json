@@ -1,0 +1,388 @@
+{
+  "profile_id": "MIRRA-F-0002",
+  "profile_version": "v3.8",
+  "created_for": "demo_sample_data",
+  "generated_at": "2026-03-17T20:23:11+05:30",
+  "confidence": {
+    "overall": 0.9,
+    "breakdown": {
+      "declared": 0.91,
+      "observed": 0.89,
+      "inferred": 0.88,
+      "stability_index_90d": 0.82,
+      "data_coverage": 0.88
+    },
+    "confidence_explanation": "High confidence with moderate variability: consistent preference reinforcement and repeated observed avoidance/recovery loops; hypotheses validated through outcome improvements in interview prep and admin completion when chunked."
+  },
+  "demographics": {
+    "name_alias": "Naina Iyer",
+    "gender": "female",
+    "age_range": "28-33",
+    "city": "Bengaluru",
+    "languages": [
+      "English",
+      "Tamil",
+      "Hindi"
+    ],
+    "preferred_pronouns": "she/her",
+    "household": {
+      "relationship_status": "single",
+      "dependents": [],
+      "living_setup": "lives alone",
+      "support": {
+        "friends": "strong",
+        "family": "moderate, remote"
+      }
+    }
+  },
+  "privacy_preferences": {
+    "data_sharing": {
+      "work_calendar": "allowed",
+      "personal_calendar": "allowed",
+      "health_metrics": "allowed",
+      "location": "allowed_when_needed",
+      "shopping_orders": "allowed"
+    },
+    "sensitivity_flags": {
+      "no_push_after": "22:15",
+      "avoid_phrases": [
+        "discipline",
+        "failure"
+      ],
+      "mental_health_safe_mode": true
+    },
+    "data_retention": {
+      "raw_events_days": 365,
+      "derived_features_days": 730,
+      "user_can_delete": true
+    }
+  },
+  "tone_contract": {
+    "default_tone": "gentle, non-judgmental, coaching",
+    "when_tired": "fewer questions; propose defaults",
+    "when_anxious": "grounding + tiny next step",
+    "format": {
+      "max_options": 3,
+      "always_provide_default": true
+    },
+    "language_style": {
+      "prefer": "plain",
+      "avoid": [
+        "shame framing"
+      ],
+      "celebrate_small_wins": true
+    }
+  },
+  "work_profile": {
+    "industry": "Technology / Analytics",
+    "role": "Business Analyst (transitioning to Data Product)",
+    "work_model": "remote",
+    "typical_hours": {
+      "mon_fri": {
+        "start": "10:30",
+        "end": "19:00"
+      },
+      "weekend": "learning blocks"
+    },
+    "current_focus": {
+      "career_goal": "switch to Data Product / AI PM track",
+      "learning_plan": [
+        "advanced SQL",
+        "product sense",
+        "case practice"
+      ],
+      "job_search_stage": "active interviewing"
+    },
+    "productivity_style": {
+      "planning_style": "time-blocking + tiny tasks",
+      "peak_focus_duration_min": 90,
+      "energy_variability": "high",
+      "preferred_tools": [
+        "Notion",
+        "Google Calendar",
+        "Slack",
+        "Sheets"
+      ],
+      "communication_style": "thoughtful, prefers async"
+    },
+    "stress_model": {
+      "triggers": [
+        "unclear expectations",
+        "open-ended tasks",
+        "high-stakes interviews"
+      ],
+      "avoidance_patterns": [
+        "postpones admin",
+        "over-researches instead of executing"
+      ],
+      "effective_countermeasures": [
+        "micro-steps (10 min)",
+        "pair admin with reward",
+        "night-before prep kit"
+      ]
+    }
+  },
+  "home_profile": {
+    "roles": {
+      "primary_planner": "self",
+      "support_system": "friends + occasional family check-ins"
+    },
+    "recurring_load": {
+      "cooking": {
+        "frequency": "3-4x/week",
+        "pain_level": 0.45
+      },
+      "groceries": {
+        "frequency": "1-2x/week",
+        "pain_level": 0.35
+      },
+      "cleaning": {
+        "frequency": "weekly",
+        "pain_level": 0.5
+      },
+      "finance_admin": {
+        "frequency": "monthly",
+        "pain_level": 0.8
+      }
+    },
+    "friction_points": [
+      "paperwork and bill tracking",
+      "late-night food ordering when tired",
+      "clutter during stressful weeks"
+    ],
+    "success_metrics": [
+      "clean kitchen most days",
+      "bills never missed",
+      "simple meal plan reduces ordering"
+    ]
+  },
+  "self_profile": {
+    "energy_patterns": {
+      "peak": "11:30-14:30",
+      "dip": "16:30-18:00",
+      "rumination_risk_window": "21:30-23:30",
+      "sleep_need_hours": 8.0,
+      "sleep_reality_avg": 7.2
+    },
+    "wellbeing_goals": {
+      "movement": "yoga 3x/week",
+      "nutrition": "steady meals; fewer delivery orders",
+      "mental_health": "reduce anxiety spirals; kinder self-talk",
+      "social": "2 meaningful connections/week"
+    },
+    "values_identity": {
+      "top_values": [
+        "freedom",
+        "mastery",
+        "meaning",
+        "calm"
+      ],
+      "joy_activities": [
+        "reading fiction",
+        "cafes",
+        "music",
+        "weekend nature walks"
+      ]
+    },
+    "stress_and_recovery": {
+      "early_signals": [
+        "doom-scrolling",
+        "skipping lunch",
+        "avoiding emails",
+        "negative self-talk"
+      ],
+      "recovery_actions_that_work": [
+        "5-min reset + water + quick tidy",
+        "voice-note to a friend",
+        "guided breathing"
+      ],
+      "safe_mode_rules": {
+        "when_safe_mode_on": "no judgment; focus on one next step; offer grounding exercises"
+      }
+    }
+  },
+  "preference_model": {
+    "motivation_profile": {
+      "responds_to": [
+        "small wins",
+        "visible streaks",
+        "identity reinforcement"
+      ],
+      "does_not_respond_to": [
+        "shame",
+        "harsh deadlines"
+      ],
+      "reward_style": "celebrate consistency over intensity"
+    },
+    "food": {
+      "diet_style": "eggetarian",
+      "weekday_time_budget_min": 15,
+      "comfort_foods": [
+        "curd rice",
+        "khichdi",
+        "ramen (occasionally)"
+      ],
+      "late_night_risk": "delivery desserts/snacks",
+      "preferred_fix": "keep ready-to-eat healthy options"
+    },
+    "planning": {
+      "default_mode": "flexible structure",
+      "overwhelmed_mode": "minimum viable day plan",
+      "decision_fatigue_points": [
+        "what to cook",
+        "what to practice next",
+        "admin"
+      ]
+    }
+  },
+  "signals": {
+    "declared": {
+      "sources": [
+        "onboarding",
+        "weekly check-ins"
+      ],
+      "examples": [
+        {
+          "item": "avoid shame language",
+          "last_confirmed_days_ago": 6
+        },
+        {
+          "item": "prefers defaults when tired",
+          "last_confirmed_days_ago": 9
+        }
+      ]
+    },
+    "observed": {
+      "sources": [
+        "screen-time proxy",
+        "task streaks",
+        "calendar",
+        "shopping"
+      ],
+      "patterns_90d": {
+        "focus_peak": "11:30-14:30",
+        "admin_avoidance": "end-of-month spike",
+        "delivery_app_opens": "higher during rumination window",
+        "completion_improves_with_chunking": true
+      }
+    },
+    "inferred": {
+      "hypotheses": [
+        {
+          "hypothesis": "perfectionism drives avoidance",
+          "confidence": 0.88
+        },
+        {
+          "hypothesis": "tiny tasks reduce anxiety",
+          "confidence": 0.9
+        }
+      ]
+    }
+  },
+  "living_hypothesis": {
+    "primary_goal_state": "consistency + reduced anxiety + steady progress",
+    "core_friction": "energy variability + perfectionism causes avoidance loops",
+    "key_tradeoffs": [
+      "prefers 70% done consistently over 100% occasionally",
+      "needs low-friction defaults during dips"
+    ],
+    "behavioral_rules_high_confidence": [
+      {
+        "rule_id": "LH-N-01",
+        "rule": "If rumination window starts and screen time is high, propose wind-down + plan next day’s top-1.",
+        "confidence": 0.92,
+        "evidence": {
+          "observed": [
+            "screen_time_high",
+            "late_night_usage"
+          ],
+          "validated_by_user_feedback": true
+        }
+      },
+      {
+        "rule_id": "LH-N-02",
+        "rule": "If admin postponed > 14 days, break into 10-min micro-steps and pair with a reward.",
+        "confidence": 0.9,
+        "evidence": {
+          "observed": [
+            "task_history"
+          ],
+          "validated_by_outcomes": true
+        }
+      },
+      {
+        "rule_id": "LH-N-03",
+        "rule": "Before interviews, reduce cognitive load: prep outfit + meals + practice kit night before.",
+        "confidence": 0.88,
+        "evidence": {
+          "observed": [
+            "interview_day_outcomes"
+          ],
+          "validated_by_outcomes": true
+        }
+      }
+    ],
+    "recommendation_style": {
+      "timing": [
+        "midday focus",
+        "evening soothing"
+      ],
+      "format": "1 default + 2 alternatives",
+      "explanations": "warm, brief, actionable"
+    }
+  },
+  "recommendation_examples": [
+    {
+      "scenario": "Interview tomorrow + anxiety signals + clutter high",
+      "trigger_signals": [
+        "interview_scheduled",
+        "anxiety_high",
+        "environment_clutter"
+      ],
+      "suggestion": {
+        "default": "10-min reset: tidy desk + prep documents + set outfit.",
+        "plan": [
+          "Dinner default: khichdi",
+          "20-min light case practice only",
+          "Wind-down: 5-min breathing"
+        ]
+      },
+      "why_this": "reduces uncertainty and prevents spiral",
+      "confidence": 0.91
+    },
+    {
+      "scenario": "Skipped lunch + delivery app opened 3 times",
+      "trigger_signals": [
+        "meal_skip",
+        "delivery_app_open_spike"
+      ],
+      "suggestion": {
+        "default": "Snack now: yogurt + fruit.",
+        "plan": [
+          "15-min meal: egg bhurji + toast",
+          "Lock delivery app for 60 mins"
+        ]
+      },
+      "why_this": "interrupts pattern gently without shame",
+      "confidence": 0.89
+    }
+  ],
+  "longitudinal_summary": {
+    "months_of_usage": 9,
+    "seasonality": {
+      "interview_cycles": "stress spikes; needs night-before prep",
+      "month_end_admin": "avoidance increases"
+    },
+    "what_worked": [
+      "micro-steps",
+      "default meal kits",
+      "gentle streaks",
+      "evening wind-down"
+    ],
+    "what_didnt_work": [
+      "large open-ended plans",
+      "strict schedules",
+      "shame-based nudges"
+    ]
+  }
+}
