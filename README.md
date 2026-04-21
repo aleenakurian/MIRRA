@@ -1,4 +1,4 @@
-# MIRRA — Your Life, Intelligently Simplified
+# MIRRA
 
 MIRRA is a personal assistant designed for women, focused on reducing mental load across work, home, and self. It uses a **living hypothesis profile model** that evolves over time through declared preferences, observed signals, and inferred patterns.
 
